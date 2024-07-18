@@ -1,1 +1,2 @@
 Hi, I'm learning how to use Git and GitHub. This is fun. 
+Today is July 18, 2024 and I am learning about git again. Taking it serious this time.
